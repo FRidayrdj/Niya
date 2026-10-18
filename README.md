@@ -10,9 +10,7 @@ Say the word with the phone in your pocket and the screen dark. That one interac
   <img src="media/gallery-2.jpg" width="260" alt="General vision result">
 </p>
 
-<p align="center">
-  <a href="media/conversation-mode-loop.mp4">▶ Conversation Mode in motion (mp4, 118 KB)</a>
-</p>
+
 
 **Download:** [Niya v1.0.0 (APK)](https://github.com/NativelyItsYourAssistant/niya/releases/download/V1.0.0/Niya.v1.0.0.apk) · **Wake-word models:** [Niyawakeword/niya-wakeword-models](https://github.com/Niyawakeword/niya-wakeword-models)
 
