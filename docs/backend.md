@@ -131,7 +131,7 @@ The Worker makes the failure diagnosable. A missing binding returns a 500 that n
 ### The password fallback
 
 ```js
-const DASHBOARD_PASSWORD = "niya-admin-2025"; // ← change this, or set DASHBOARD_PASS
+const DASHBOARD_PASSWORD =  DASHBOARD_PASS;
 const expected = env.DASHBOARD_PASS ?? DASHBOARD_PASSWORD;
 ```
 
